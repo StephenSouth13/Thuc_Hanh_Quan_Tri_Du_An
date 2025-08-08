@@ -1,0 +1,75 @@
+9.2,1,0,1000,(untitled)
+"POM for Windows 5.2 Build 0.121 Taylor edition 12"
+1,2,0,0,0,0,0
+0,1,0,0,1,0,0
+2,False,0,0,0,0,0,0
+21,20
+""
+"YA"
+"YB"
+"YC"
+"YD"
+"YE"
+"YF"
+"YG"
+"YH"
+"XA"
+"XB"
+"XC"
+"XD"
+"XE"
+"XF"
+"XG"
+"XH"
+"XSTART"
+"XFINISH"
+" "
+"RHS"
+"Minimize"
+"A crash max."
+"B crash max."
+"C crash max."
+"D crash max."
+"E crash max."
+"F crash max."
+"G crash max."
+"H crash max."
+"A constraint"
+"B constraint"
+"C constraint"
+"D constraint"
+"E constraint"
+"F constraint"
+"G constraint 1"
+"G constraint 2"
+"H constraint 1"
+"H constraint 2"
+"Due date"
+"Start constraint"
+"Finish constraint"
+20
+Minimize, 0, 750, 2000, 1000, 1000, 1000, 500, 1500, 3000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+A crash max., 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1,
+B crash max., 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2,
+C crash max., 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1,
+D crash max., 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1,
+E crash max., 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2,
+F crash max., 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1,
+G crash max., 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3,
+H crash max., 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1,
+A constraint, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0,-1, 0, 3, 2,
+B constraint, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0,-1, 0, 3, 3,
+C constraint, 0, 0, 0, 1, 0, 0, 0, 0, 0,-1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3, 2,
+D constraint, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,-1, 0, 1, 0, 0, 0, 0, 0, 0, 3, 4,
+E constraint, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,-1, 0, 1, 0, 0, 0, 0, 0, 3, 4,
+F constraint, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,-1, 0, 0, 1, 0, 0, 0, 0, 3, 3,
+G constraint 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0,-1, 0, 0, 1, 0, 0, 0, 3, 5,
+G constraint 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,-1, 0, 1, 0, 0, 0, 3, 5,
+H constraint 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,-1, 0, 1, 0, 0, 3, 2,
+H constraint 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0,-1, 1, 0, 0, 3, 2,
+Due date, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 12,
+Start constraint, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0,
+Finish constraint, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,-1, 0, 1, 3, 0,
+-1, -1
+done
+""

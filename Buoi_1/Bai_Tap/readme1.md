@@ -19,3 +19,4 @@ Constraints : Fixed cost - Fixed time - Fixed scope
 - Fixed cost : Chi phí cố định
 - Fixed time : Thời gian cố định
 - Fixed scope : Phạm vi cố định
+

@@ -13,3 +13,9 @@ Can see that : Buoi_1/Bai_Tap/process.png.
 ![alt text](image-1.png)
 Trong ảnh 2/png các slack (Thời gian trễ của nhiệm) là có thê rlaays late - early
 ![alt text](image.png)
+
+Project Crashing - Thời gian rút ngắn dự án
+Constraints : Fixed cost - Fixed time - Fixed scope
+- Fixed cost : Chi phí cố định
+- Fixed time : Thời gian cố định
+- Fixed scope : Phạm vi cố định
